@@ -1,5 +1,7 @@
 # my-awesome-project
 
+Getting deployed to: https://jkais.github.io/my-awesome-vue-app/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
