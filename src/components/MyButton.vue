@@ -13,4 +13,7 @@ export default {
 </template>
 
 <style scoped>
+  * {
+    font-size: 40px;
+  }
 </style>
