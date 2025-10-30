@@ -26,4 +26,7 @@ export default {
 </template>
 
 <style scoped>
+  * {
+    color: red;
+  }
 </style>
